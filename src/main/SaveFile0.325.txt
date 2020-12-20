@@ -1,0 +1,7 @@
+Liczba zwierząt: 1995
+Liczba trawy: 296
+Dominujący genotyp: 1
+Średni poziom energi: 68.8019
+Średnia długość życia: 44.620712
+Średnia liczba dzieci: 2.508772
+Ilość pochowanych zwierząt [*]: 11598

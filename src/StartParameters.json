@@ -1,0 +1,14 @@
+{
+  "widthMap2":100,
+  "heightMap2": 100,
+  "grassEnergy2": 1000,
+  "jungleRatio2": 0.5,
+  "startEnergy2": 100000,
+  "numberOfAnimal2": 10,
+  "grassInTheBeginning2" : 3,
+  "energyInOneDay2" : 1,
+  "energyToCopulation2":25,
+  "speed2" : 0,
+  "heightMapInCale" : 700,
+  "numberOfGrassInOneDay": 10
+}
